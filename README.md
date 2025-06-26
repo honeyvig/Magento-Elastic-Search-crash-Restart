@@ -1,0 +1,1 @@
+# Magento-Elastic-Search-crash-Restart
